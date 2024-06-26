@@ -1,0 +1,9 @@
+#忽略所有的编译生成目录
+/bin/
+/obj/
+
+#忽略Nuget管理的包目录
+/packages/
+
+#忽略Visual Studio生成的文件
+.vs/
